@@ -1,5 +1,5 @@
 # DanceJS Origins
-A brief history of the origin of DanceJS
+A brief history of DanceJS
 
 
 
