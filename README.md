@@ -1,4 +1,4 @@
-# dancejs-origins
+# DanceJS Origins
 A brief history of the origin of DanceJS
 
 
